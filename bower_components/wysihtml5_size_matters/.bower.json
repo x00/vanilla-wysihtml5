@@ -1,0 +1,13 @@
+{
+  "name": "wysihtml5_size_matters",
+  "homepage": "https://github.com/smidwap/wysihtml5_size_matters",
+  "_release": "fd133cecd9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fd133cecd96878ef205cba8ae2138ea14bffc1f6"
+  },
+  "_source": "git://github.com/smidwap/wysihtml5_size_matters.git",
+  "_target": "*",
+  "_originalSource": "wysihtml5_size_matters"
+}

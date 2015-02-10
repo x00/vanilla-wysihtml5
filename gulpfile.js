@@ -19,6 +19,7 @@ gulp.task('scripts', function () {
 
     // Plugin initialization
   , 'js/initialize.js'
+  
   ])
     .pipe(uglify())
     .pipe(concat('editor.min.js'))
